@@ -1,2 +1,2 @@
-# Beacon-Scanner
+# BLE-Scanner
 To scan BLE packets
