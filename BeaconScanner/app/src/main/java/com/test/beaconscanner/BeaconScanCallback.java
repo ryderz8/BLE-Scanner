@@ -8,7 +8,7 @@ import org.altbeacon.beacon.Beacon;
 import java.util.Collection;
 
 /**
- * Created by mayanksaini on 09/11/18.
+ * Created by amresh on 09/11/18.
  */
 public interface BeaconScanCallback {
 
